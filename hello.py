@@ -3,4 +3,4 @@ b = 202001196
 c = 'Divison of Global Sport Industry'
 
 sentence = "Hello Python!"
-print(a)
+print(a,b,c,end=" ")
